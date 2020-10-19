@@ -2,6 +2,8 @@
 
 Hello! This content is intended to test your understanding of the Pandas up through Topic 5, with a focus on using Pandas to answer questions about your data.
 
+Full credit to [GitHub user guipsamora](https://github.com/guipsamora), who wrote the two Pandas exercises I combined for this week, as well as many more! [Check out the pandas exercises repo here.](https://github.com/guipsamora/pandas_exercises)
+
 ## Instructions
 
 In order to do this review notebook, follow the below steps:
