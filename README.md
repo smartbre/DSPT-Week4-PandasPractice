@@ -1,4 +1,4 @@
-# Week 4 Pandas Prqactice
+# Week 4 Pandas Practice
 
 Hello! This content is intended to test your understanding of the Pandas up through Topic 5, with a focus on using Pandas to answer questions about your data.
 
